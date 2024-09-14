@@ -5,6 +5,3 @@ Javascript heart rate detection using web camera video
 
 Demo video<br>
 https://youtu.be/29jWtz03FJI
-
-Description<br>
-https://g-llc.co.jp/blog/programming013e/
